@@ -54,7 +54,7 @@ Feel free to reach out via [email](thuydungcolen2004@gmail.com) or connect with 
 ## 🔗 Connect with Me
 - [GitHub](https://github.com/dung-max)
 - https://web.facebook.com/share/187A7tSWi2/?mibextid=wwXIfr&_rdc=1&_rdr
----
+- https://codeforces.com/profile/unne0804
 
 ## 📚 Technologies & Tools I've Used
 
