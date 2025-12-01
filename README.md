@@ -49,7 +49,7 @@ Here are some of the projects I’ve been working on:
 - **Cloud Computing**: Learning cloud platforms such as AWS and Google Cloud for deploying my projects.
 
 ## 📫 How to reach me
-Feel free to reach out via [email](thuydungcolen2004@gmail.com) or connect with me on [facebook](https://web.facebook.com/share/187A7tSWi2/?mibextid=wwXIfr&_rdc=1&_rdr).
+Feel free to reach out via [email](thuydungcolen2004@gmail.com) or connect with me on [facebook](https://web.facebook.com/share/187A7tSWi2/?mibextid=wwXIfr&_rdc=1&_rdr) or [codeforces](https://codeforces.com/profile/unne0804)
 
 ## 🔗 Connect with Me
 - [GitHub](https://github.com/dung-max)
