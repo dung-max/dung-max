@@ -8,7 +8,7 @@ Currently, I am a university student focused on AI and cloud architecture. I am 
 
 ## 💻 Technologies & Skills
 
-- **Languages**: Python, Kotlin, JavaScript
+- **Languages**: Python, Kotlin, JavaScript, Java
 - **Machine Learning & AI**: TensorFlow, Keras, Scikit-learn
 - **Web Development**: HTML, CSS, JavaScript, React
 - **Mobile Development**: Kotlin (Android)
