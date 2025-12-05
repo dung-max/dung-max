@@ -10,10 +10,10 @@ Currently, I am a university student focused on AI and cloud architecture. I am 
 
 - **Languages**: Python, Kotlin, JavaScript, Java
 - **Machine Learning & AI**: TensorFlow, Keras, Scikit-learn
-- **Web Development**: HTML, CSS, JavaScript, React
+- **Web Development**: HTML, CSS, JavaScript
 - **Mobile Development**: Kotlin (Android)
 - **Tools & Libraries**: OpenCV, NumPy, Pillow, Flask, Python-SocketIO
-- **Databases**: MySQL, SQLite
+- **Databases**: MySQL, SQL Server
 - **Operating System**: Windows
 
 ## 🔧 Projects
